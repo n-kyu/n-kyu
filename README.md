@@ -27,7 +27,7 @@ I like to learn and contribute in any and every possible way.
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <br>
-<div align="center">
+<div>
   <a href="https://github.com/n-kyu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-kyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-kyu&layout=compact&langs_count=7&theme=tokyonight"/>
